@@ -43,8 +43,8 @@ Venue: WikiPaka Kitchen
 - Oliver Keller @0zelot (CERN/Hackuarium/GOSH: http://openhardware.science)
 - Anna Klingauf @aiko_psi (Uni Kassel)
 - Anastasia Gilz @TalkToNa
-- Mario Behling  
-- Katha @katharrkatkatharkkatharrkatkatharr
+- Mario Behling https://twitter.com/mariobehling, https://twitter.com/pslabapp, www.pslab.io 
+- Katha @katharakt
 
 ## Methodology 
 (suggestions, feel free to add alternatives)
