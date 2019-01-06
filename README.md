@@ -145,6 +145,7 @@ use free and open-source hard- and software to bypass copyright issues
 - https://fossasia.org/
 - http://www.africaosh.com/
 - http://openhardware.science/
+- http://www.gaudi.ch/GaudiLabs/?page_id=2
 
 - https://waag.org/en/article/five-ways-make-your-open-hardware-succeed
 
